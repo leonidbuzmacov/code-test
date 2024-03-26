@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Code Test</string>
+    <string name="goalkeepers">Goalkeepers</string>
+    <string name="defenders">Defenders</string>
+    <string name="midfildiers">Midfildiers</string>
+    <string name="forwards">Forwards</string>
+    <string name="coach">Coach</string>
+    <string name="player_list_b">* Player list B</string>
+    <string name="overview">Overview</string>
+    <string name="matches">Matches</string>
+    <string name="groups">Groups</string>
+    <string name="stats">Stats</string>
+    <string name="squad">Squad</string>
+    <string name="barcelona">Barcelona</string>
+    <string name="playing">Playing</string>
+    <string name="round">Round of 16</string>
+</resources>
